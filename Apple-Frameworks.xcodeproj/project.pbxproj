@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		FC9D78162DC777A900AAB467 /* Apple-Frameworks */ = {
+		FCC566182DC7E5AC0017D831 /* Apple-Frameworks */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Apple-Frameworks";
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		FC9D780B2DC777A900AAB467 = {
 			isa = PBXGroup;
 			children = (
-				FC9D78162DC777A900AAB467 /* Apple-Frameworks */,
+				FCC566182DC7E5AC0017D831 /* Apple-Frameworks */,
 				FC9D78152DC777A900AAB467 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				FC9D78162DC777A900AAB467 /* Apple-Frameworks */,
+				FCC566182DC7E5AC0017D831 /* Apple-Frameworks */,
 			);
 			name = "Apple-Frameworks";
 			packageProductDependencies = (
