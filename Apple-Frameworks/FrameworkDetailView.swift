@@ -45,7 +45,9 @@ struct FrameworkDetailView: View {
             .buttonStyle(.bordered)
             .controlSize(.large)
             .tint(.red)
-        }
+        } .sheet(isPresented: $isShowingSafariView, content: {
+            SafariView(url: URL(string: framework.urlString) ?? URL(string: "www.apple.com")!)
+        })
     }
 }
 
